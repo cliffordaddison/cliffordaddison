@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=1ABC9C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Clifford+Addison+%F0%9F%91%8B;Data+Scientist+%7C+AI+Developer+%7C+Logistics+Expert;From+Operations+to+Intelligence+%F0%9F%9A%80;Building+Smarter+Solutions+Every+Day+%F0%9F%A7%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Clifford+Addison+%F0%9F%91%8B;Data+Scientist+%7C+AI+Developer+%7C+Logistics+Expert;From+Operations+to+Intelligence+%F0%9F%9A%80;Building+Smarter+Solutions+Every+Day+%F0%9F%A7%9C" alt="Typing SVG" />
 </p>
 
 ---
@@ -88,6 +88,6 @@ I'm a forward-thinking **AI & Data Science student** with a past life in high-im
 
 ---
 
-## 🚀 Always Learning... Always Building... Always Evolving...
+## 🚀 Turning Data Into Action. Shaping Insight Into Impact.
 
-> “Great data tells a story. Great models make it matter.” 💡
+> “Data is only valuable when it leads to understanding. Insight is what turns information into impact.” 💡
