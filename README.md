@@ -1,100 +1,89 @@
-<!-- Typing SVG Header -->
+<!-- 🎯 Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Clifford+Addison!;Data+Scientist+%7C+AI+Developer+%7C+Ex-Ops+Manager;I+love+analyzing+data+%26+building+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=06B6D4&center=true&vCenter=true&width=650&lines=Hi,+I'm+Clifford+Addison!;AI+%7C+Data+Science+%7C+Ops+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-Hi, I'm **Clifford Addison**, a passionate **AI & Data Science student** at Loyalist College, Toronto, with a BSc in **Actuarial Science** and years of **logistics & operations management** experience across Africa’s mining, marine, and transportation sectors.
-
-I'm pivoting into tech to build **real-world machine learning** solutions—turning raw data into **insightful stories**, models, and scalable apps.
+Hi, I'm **Clifford Addison** — an **AI & Data Science student** at Loyalist College, Toronto, with a BSc in Actuarial Science and a rich 8+ year background managing logistics and operations across Africa’s mining, maritime, and infrastructure industries. I design insightful ML models and interactive apps.
 
 ---
 
-### 🎓 Education & 💼 Experience
+### 🎓 Journey & 💼 Experience
 
-🎓 **Artificial Intelligence & Data Science**  
-Loyalist College, Toronto (2024–2025)
-
-🎓 **BSc in Actuarial Science**  
-Kwame Nkrumah University of Science and Technology, Ghana
-
-💼 **Operations Manager → GM, Technical Security & Logistics**  
-8+ years of leadership in mining, maritime logistics, & infrastructure projects.
+| Level | Details |
+|------|---------|
+| 🎓 Education | AI & DS (Loyalist College, 2024–25) • Actuarial Science (KNUST, Ghana) |
+| 💼 Experience | Ops Manager → GM—Technical Security & Logistics |
+| 🌐 Pivoting into | AI, ML, NLP, Deep Learning, Model Interpretability, Data Visualization |
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cliffordaddison)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cliffordaddison)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clifford.siisi.addison@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cliffordaddison) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/cliffordaddison) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:clifford.siisi.addison@gmail.com)
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Toolkit
 
-- **Languages:** Python, SQL, JavaScript
-- **Libraries/Tools:** pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Streamlit
-- **Other:** Docker, Git, Linux, Tableau, Power BI
-
----
-
-### 🔍 Interests
-
-Data Science • Machine Learning • Model Interpretability (SHAP, LIME) • Decision Trees • NLP • Deep Learning • AI for Social Good • Logistics Optimization
+- **Languages:** Python • SQL • JavaScript  
+- **ML & Data:** pandas • NumPy • Scikit-Learn • TensorFlow • SHAP • LIME  
+- **Deployment & DevOps:** Streamlit • Docker • Git • Linux  
+- **Visualization:** Matplotlib • Seaborn • Tableau • Power BI
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted Projects
 
-#### 📊 **Weather Forecasting ML Project**
-`Machine Learning · Time Series · Regression · SHAP`
-- Group project predicting future weather conditions using historical datasets.
-- Implemented model validation, feature engineering, and SHAP for model explainability.
-- Presented using Streamlit dashboard and Dockerized UI.
-
-#### 🧠 **Fake News Detection**
-`NLP · TF-IDF · RNN · LSTM · XGBoost`
-- Built and compared 4 NLP models (SVM, RNN, GRU, LSTM).
-- Used GloVe, FastText, Word2Vec embeddings.
-- Applied LIME/SHAP for interpretation.
-
-#### 🧮 **Loan Eligibility Prediction App**
-`Streamlit · Logistic Regression · Random Forest · UI Deployment`
-- Built UI to predict if an applicant is eligible for a loan.
-- Includes training with cross-validation and real-time inference.
-
-#### 🧪 **Medical Insurance Cost Prediction**
-`Linear Regression · EDA · Streamlit App`
-- Regression model to predict insurance costs based on features like BMI, age, smoking status.
+- **Weather Forecasting ML** *(Regression, SHAP, Docker, Streamlit)*  
+- **Fake News Detector** *(NLP, LSTM/XGBoost, Interpretability)*  
+- **Loan Eligibility Predictor** *(Streamlit UI, RF, Cross‑Validation)*  
+- **Insurance Cost Regressor** *(BMI, Age, Smoke; Streamlit App)*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activities
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cliffordaddison&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordaddison" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cliffordaddison&theme=light" alt="GitHub Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordaddison&theme=default" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cliffordaddison&theme=light" alt="Activity Graph" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordaddison&layout=compact" alt="Top Languages" />
 
 ---
 
-### 🧪 Fun Stats & Widgets
+### 🐍 Contribution Snake
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordaddison&layout=compact)
+![Contribution Snake](./github-contribution-grid-snake.svg)
 
-![Contribution Snake](https://github.com/cliffordaddison/cliffordaddison/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🧭 Motto
-
-> "Always learning. Always building. Always evolving."
+*Powered by GitHub Action: `Platane/snk`*
 
 ---
+
+### 🧩 GitHub Action Setup
+
+To auto-update the snake animation:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: github-contribution-grid-snake.svg
