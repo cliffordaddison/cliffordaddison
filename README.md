@@ -11,11 +11,27 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 
 ---
 
-## 🎓 Education · 💼 Experience
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
 
-- 🎓 **AI & Data Science** — Loyalist College, Toronto *(2024–2025)*
-- 🎓 **Actuarial Science** — KNUST, Ghana *(2011–2015)*
-- 💼 **Operations Manager → GM** — 8+ years in security, logistics, mining, marine & infrastructure
+  <div style="flex: 1; min-width: 250px; border: 2px solid #1ABC9C; border-radius: 10px; padding: 16px; background: #f9f9f9;">
+    <h3>🎓 Education</h3>
+    <ul>
+      <li><strong>AI & Data Science</strong> — Loyalist College, Toronto <em>(2024–2025)</em></li>
+      <li><strong>Actuarial Science</strong> — KNUST, Ghana <em>(2011–2015)</em></li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; border: 2px solid #F39C12; border-radius: 10px; padding: 16px; background: #f9f9f9;">
+    <h3>💼 Experience</h3>
+    <ul>
+      <li><strong>Operations Manager → GM</strong><br>
+        8+ years in security, logistics, mining, marine & infrastructure
+      </li>
+    </ul>
+  </div>
+
+</div>
+
 
 ---
 
