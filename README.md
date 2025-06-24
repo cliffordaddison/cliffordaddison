@@ -56,17 +56,26 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 
 ## 🚀 Projects
 
-- 🧠 **Weather Forecasting with ML**
-  > Real-time forecasting with SHAP-based model interpretability and Streamlit interface.
+- ☁️ **[Weather Forecasting with ML](https://github.com/cliffordaddison/Weather-Forecasting)**
+  > Real-time weather forecasting with SHAP-based model interpretability and an interactive Streamlit interface.
 
-- 📰 **Fake News Detection (NLP)**
-  > Compared TF-IDF SVM, RNN, GRU & LSTM using word embeddings like Word2Vec/GloVe.
+- 📰 **[Fake News Detection (NLP)](https://github.com/cliffordaddison/Fake-News-Prediction)**
+  > Compared TF-IDF SVM, RNN, GRU & LSTM using word embeddings (Word2Vec/GloVe) for robust fake news detection.
 
-- 💳 **Loan Eligibility Predictor**
-  > Logistic Regression vs Random Forest on financial dataset with UI built in Streamlit.
+- 💳 **[Loan Eligibility Predictor](https://github.com/cliffordaddison/Loan-Eligibility-Prediction)**
+  > Logistic Regression vs Random Forest on financial datasets, with a user-friendly Streamlit UI.
 
-- 🧾 **Medical Insurance Cost App**
-  > Regression-based model + UI to predict cost from health profile inputs.
+- 🧾 **[Medical Insurance Cost App](https://github.com/cliffordaddison/Medical-Insurance-Cost-Prediction)**
+  > Predicts insurance costs from health profiles using regression models and a custom web interface.
+
+- 🧑‍🤝‍🧑 **[Customer Segmentation with K-Means](https://github.com/cliffordaddison/Customer-Segmentation-with-K-Means-Clustering)**
+  > Unsupervised clustering to segment customers for targeted marketing strategies.
+
+- 🗳️ **[2024 US Elections Analysis](https://github.com/cliffordaddison/2024-US-Elections)**
+  > Data-driven insights and visualizations on the 2024 US elections using open datasets.
+
+- 🔥 **[Smart Home Fire Alarm System (IoT)](https://github.com/cliffordaddison/Smart_Home_Fire_Alarm_System)**
+  > IoT-based system for real-time fire detection and alerts, integrating sensors and cloud notifications.
 
 ---
 
@@ -82,7 +91,7 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 
 ---
 
-## 🐍 Contribution Snake
+## 📝 Contribution
 
 ![Snake animation](https://raw.githubusercontent.com/cliffordaddison/cliffordaddison/output/github-contribution-grid-snake.svg)
 
