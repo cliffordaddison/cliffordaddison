@@ -27,9 +27,9 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 
 ---
 
-## 🔧 Tech Stack
+## 💻 Tech Stack
 
-### 🧠 Languages
+### 🐱‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
