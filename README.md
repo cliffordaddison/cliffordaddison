@@ -1,6 +1,6 @@
-<!-- Typing SVG -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Clifford+Addison+%F0%9F%91%9B;Data+Scientist+%7C+AI+Developer+%7C+Logistics+Expert;From+Operations+to+Intelligence+%F0%9F%9A%80;Always+Building.+Always+Learning.+%F0%9F%A7%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=1ABC9C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Clifford+Addison+%F0%9F%91%8B;Data+Scientist+%7C+AI+Developer+%7C+Logistics+Expert;From+Operations+to+Intelligence+%F0%9F%9A%80;Building+Smarter+Solutions+Every+Day+%F0%9F%A7%9C" alt="Typing SVG" />
 </p>
 
 ---
