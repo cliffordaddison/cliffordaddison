@@ -86,7 +86,7 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordaddison&theme=radical" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cliffordaddison&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cliffordaddison&theme=react-dark" />
 </p>
 
 ---
