@@ -23,7 +23,8 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 
 | Role                    | Industry Areas                                   | Duration      |
 |-------------------------|--------------------------------------------------|---------------|
-| Operations Manager → GM | Security, Logistics, Mining, Marine, Infrastructure | 8+ years      |
+| Data Anaylst | Consulting (Addison Consulting) | 13 months     |
+| Senior Supervisor → Operations Manager → GM | Security, Logistics, Mining, Marine, Infrastructure | 8+ years      |
 
 
 ---
@@ -64,6 +65,8 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 ---
 
 ## 🚀 Projects
+- 📊 **[Data Analysis and Business Intelligence](https://github.com/cliffordaddison/BI_Ecommerce_Analysis)**
+  > Comprehensive e-commerce analysis of 100K+ sales records using PowerBI, SQL, and Excel, identifying revenue trends, product performance, and operational insights with interactive dashboards and strategic recommendations.
 
 - ☁️ **[Weather Forecasting with ML](https://github.com/cliffordaddison/Weather-Forecasting)**
   > Real-time weather forecasting with SHAP-based model interpretability and an interactive Streamlit interface.
