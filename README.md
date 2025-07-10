@@ -24,7 +24,7 @@ I'm a forward-thinking **AI & Data Science student** with a history in high-impa
 | Role                    | Industry Areas                                   | Duration      |
 |-------------------------|--------------------------------------------------|---------------|
 | Data Anaylst | Consulting (Addison Consulting) | 13 months     |
-| Senior Supervisor → Operations Manager → GM | Security, Logistics, Mining, Marine, Infrastructure | 8+ years      |
+| Senior Supervisor → Operations Manager → Data Expert | Security, Logistics, Mining, Marine, Infrastructure | 8+ years      |
 
 
 ---
